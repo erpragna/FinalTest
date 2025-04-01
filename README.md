@@ -1,2 +1,2 @@
 # FinalTest
-Editor: Pragna
+Editor: Pragna Makwana
